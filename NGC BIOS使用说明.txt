@@ -1,0 +1,18 @@
+如果你使用电脑：
+1.将NGC BIOS解压，确认你要使用哪个地区的。
+2.将对应IPL.BIN文件复制到：C:\Users\用户名\AppData\Roaming\Dolphin Emulator\GC\对应地区，不要复制错，不然会无法启动。
+3.打开海豚模拟器，点击工具，在“载入 GameCube 主菜单”中选择对应地区。
+如果你使用手机：
+1.将NGC BIOS解压，确认你要使用哪个地区的。
+2.将对应IPL.BIN文件复制到：/storage/emulated/0/Android/Data/org.dolphinemu.dolphinemu/files/GC/对应地区，不要复制错，不然会无法启动。
+3.用手机浏览器访问：https://www.123865.com/s/YdGeTd-CF0R，自行下载“游戏和部分Wii WAD文件”文件夹中的“007 - Everything or Nothing (Japan).rvz”或者“1080 Avalanche (Europe) (En,Fr,De,Es,It).rvz”，也可以在网上找，具体看你的IPL地区。
+4.打开Dolphin Emulator。
+5.点击齿轮图标。
+6.点击“Config”。
+7.点击“GameCube”。
+8.关闭“Skip Main Menu”选项。
+9.点三下返回。
+10.点击右上角三个点。
+11.点击“Open File”
+12.点击游戏ROM。
+13.进入操作界面后长按A键。
